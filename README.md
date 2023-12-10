@@ -7,12 +7,6 @@
 
 ---
 
-- 🌱 I’m currently learning **Java**
-
-- 📫 How to reach me **email**
-
----
-
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pahan-Samudika&theme=gotham&hide_border=false&show_icons=true&locale=en" alt="user" /></p>
 
 <p align="center">
