@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pahan Abhayawardhane</h1>
-<h3 align="center">A passionate developer from Sri Lanka</h3>
+<h3 align="center">An enthusiastic programmer hailing from Sri Lanka.</h3>
 
----
+<p align="center">&nbsp;<img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHdndzYwNnYyaWJweGViMmRxZXY3bDU5Z2MwZDk2aDdmZnh6a2tvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UGp4kxU9pix78A00td/giphy.gif" width=100 alt="user" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Pahan-Samudika&label=Profile%20views&color=0e75b6&style=flat" alt="user" /> </p>
 
@@ -12,12 +12,6 @@
 - 📫 How to reach me **email**
 
 ---
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pahan-Samudika&theme=gotham&hide_border=false&show_icons=true&locale=en" alt="user" /></p>
 
@@ -40,4 +34,5 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
+<p align="center">&nbsp;<img align="center" src="https://media.giphy.com/media/l2SpY4SJZy8b3BMHK/giphy.gif" width=200 alt="user" /></p>
 
