@@ -5,12 +5,12 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Pahan-Samudika&label=Profile%20views&color=0e75b6&style=flat" alt="user" /> </p>
 
----
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pahan-Samudika&theme=gotham&hide_border=false&show_icons=true&locale=en" alt="user" /></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pahan-Samudika&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Pahan-Samudika&theme=gotham&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pahan-Samudika&theme=gotham&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Pahan-Samudika" /></p>
