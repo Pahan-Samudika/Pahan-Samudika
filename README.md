@@ -1,5 +1,5 @@
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&size=35&color=4AAA6AFF&vCenter=true&center=true&random=false&width=600&lines=Hi+There!+%F0%9F%91%8B;I'm+Pahan+Abhayawardhane" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=35&color=4AAA6AFF&vCenter=true&center=true&width=500&height=70&duration=4000&width=600&lines=Hi+There!;I'm+Pahan+Abhayawardhane" alt="Typing SVG" /></a>
 </h1>
 <h3 align="center">An enthusiastic programmer hailing from Sri Lanka.</h3>
 
