@@ -1,3 +1,5 @@
+<img src="https://github.com/Pahan-Samudika/Pahan-Samudika/blob/8131c6fcf33c7bcc09fa1d70ffa7d867c3335044/Cover.png">
+
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=35&color=4AAA6AFF&vCenter=true&center=true&width=500&height=70&duration=4000&width=600&lines=Hi+There!;I'm+Pahan+Abhayawardhane" alt="Typing SVG" /></a>
 </h1>
