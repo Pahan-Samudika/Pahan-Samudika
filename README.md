@@ -5,7 +5,7 @@
 </h1>
 <h3 align="center">An enthusiastic programmer hailing from Sri Lanka.</h3>
 
-<p align="center">&nbsp;<img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWkzMWx0Ym95amZ6NTJ5OTFkbDI3ZXp5Y3l0ZXEzZm9hMXZkd25tcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L0NulNYfrm9mzDwxMt/giphy.gif" width=300 alt="user" /></p>
+<p align="center">&nbsp;<img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWkzMWx0Ym95amZ6NTJ5OTFkbDI3ZXp5Y3l0ZXEzZm9hMXZkd25tcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L0NulNYfrm9mzDwxMt/giphy.gif" width=200 alt="user" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Pahan-Samudika&label=Profile%20views&color=0e75b6&style=flat" alt="user" /> </p>
 
