@@ -5,7 +5,7 @@
 </h1>
 <h3 align="center">An enthusiastic programmer hailing from Sri Lanka.</h3>
 
-<p align="center">&nbsp;<img align="center" src="https://media.giphy.com/media/M2cX3Yk84xj5IVMDay/giphy.gif" width=100 alt="user" /></p>
+<p align="center">&nbsp;<img align="center" src="https://media.giphy.com/media/M2cX3Yk84xj5IVMDay/giphy.gif" width=400 alt="user" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Pahan-Samudika&label=Profile%20views&color=0e75b6&style=flat" alt="user" /> </p>
 
