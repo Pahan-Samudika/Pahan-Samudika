@@ -14,8 +14,6 @@
   <img src="https://komarev.com/ghpvc/?username=Pahan-Samudika&label=PROFILE%20VIEWS&color=ff0000&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
 <div align="center">
   <table>
     <tr>
@@ -69,5 +67,3 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmw5emJ4Z3J6bHljdHh6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/L0NulNYfrm9mzDwxMt/giphy.gif" width="300" alt="Giphy">
 </p>
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
