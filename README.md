@@ -2,7 +2,11 @@
   <img src="https://github.com/Pahan-Samudika/Pahan-Samudika/blob/8131c6fcf33c7bcc09fa1d70ffa7d867c3335044/Cover.png" width="800" alt="Banner">
 </p>
 
-<h3 align="center">An enthusiastic programmer hailing from Sri Lanka.</h3>
+<h3 align="center">An Enthusiastic Programmer Hailing from Sri Lanka</h3>
+
+<a href="https://keizerfolio.netlify.app/" target="blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Pahan-Samudika&label=PROFILE%20VIEWS&color=ff0000&style=for-the-badge" alt="Profile Views" />
@@ -53,9 +57,6 @@
 <h2 align="center">Connect with me</h2>
 
 <p align="center">
-  <a href="https://keizerfolio.netlify.app/" target="blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/pahan-abhayawardhane-03b4081b8/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
