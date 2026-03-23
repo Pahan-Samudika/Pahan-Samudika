@@ -1,27 +1,20 @@
 <p align="center">
   <img src="https://github.com/Pahan-Samudika/Pahan-Samudika/blob/8131c6fcf33c7bcc09fa1d70ffa7d867c3335044/Cover.png" width="800" alt="Banner">
 </p>
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=ROOT@PAHAN:~#+SCANNING...;Hi+There!;I'm+Pahan+Abhayawardhane;ESTABLISHING+CONNECTION..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Hi+There!;I'm+Pahan+Abhayawardhane" alt="Typing SVG" />
   </a>
 </h1>
 
 <h3 align="center">An enthusiastic programmer hailing from Sri Lanka.</h3>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/System-Active-FF0000?style=for-the-badge&logo=probot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Access-Granted-FF0000?style=for-the-badge&logo=lock&logoColor=white" />
-  <img src="https://img.shields.io/badge/Region-Sri_Lanka-FF0000?style=for-the-badge&logo=googlemaps&logoColor=white" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pahan-Samudika&label=PROFILE%20VIEWS&color=ff0000&style=for-the-badge" alt="Profile Views" />
+</p>
 
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pahan-Samudika&label=INTRUSION%20LOGS&color=ff0000&style=for-the-badge" alt="Profile Views" />
-</div>
-
-<br/>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <div align="center">
   <table>
@@ -40,36 +33,36 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pahan-Samudika&theme=gotham&background=0D1117&ring=ff0000&fire=ff0000&stroke=ff0000&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff" alt="GitHub Streak" />
 </p>
 
-<h2 align="center">/USR/BIN/ARSENAL</h2>
+<h2 align="center">Languages and Tools</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
 </div>
 
-<h2 align="center">ESTABLISH CONNECTION</h2>
+<h2 align="center">Connect with me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pahan-abhayawardhane-03b4081b8/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/pahansamudika" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=social&logo=twitter" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/_the_keizer_" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/pahan.abhayawardhane/" target="blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=social&logo=facebook" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
